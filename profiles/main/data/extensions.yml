@@ -10,8 +10,6 @@ enabled:
     uuid: null
   - id: ms-azuretools.vscode-docker
     uuid: null
-  - id: nonoroazoro.syncing
-    uuid: e7db78ad-ac9f-4919-99bb-3627e07b6d1f
   - id: vscode-icons-team.vscode-icons
     uuid: null
   - id: vsls-contrib.gistfs
