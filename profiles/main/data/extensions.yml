@@ -1,0 +1,20 @@
+disabled:
+  - id: Gruntfuggly.todo-tree
+    uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
+  - id: ritwickdey.LiveServer
+    uuid: 00000000-0000-0000-0000-000000000000
+enabled:
+  - id: alefragnani.Bookmarks
+    uuid: null
+  - id: ms-azuretools.vscode-containers
+    uuid: null
+  - id: ms-azuretools.vscode-docker
+    uuid: null
+  - id: nonoroazoro.syncing
+    uuid: e7db78ad-ac9f-4919-99bb-3627e07b6d1f
+  - id: vscode-icons-team.vscode-icons
+    uuid: null
+  - id: vsls-contrib.gistfs
+    uuid: null
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
