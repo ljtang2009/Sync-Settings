@@ -406,5 +406,7 @@
 	"vscode-auto-light-dark-theme.autoToggle": false,
 	"vscode-auto-light-dark-theme.lightTheme": "Default Light Modern",
 	"vscode-auto-light-dark-theme.darkTheme": "Default Dark Modern",
-	"workbench.colorTheme": "Default Dark Modern"
+	"workbench.colorTheme": "Default Dark Modern",
+	"syncSettings.openOutputOnActivity": true,
+	"syncSettings.restartMode": "reload-windows"
 }
